@@ -14,12 +14,12 @@
 		<div id="simple-list" class="row">
 			<h4 class="col-12">Drag and Drop</h4>
 			<div id="example1" class="list-group col">
-				<div class="list-group-item">Item 1</div>
-				<div class="list-group-item">Item 2</div>
-				<div class="list-group-item">Item 3</div>
-				<div class="list-group-item">Item 4</div>
-				<div class="list-group-item">Item 5</div>
-				<div class="list-group-item">Item 6</div>
+				<div id="1" class="list-group-item">Item 1</div>
+				<div id="2" class="list-group-item">Item 2</div>
+				<div id="3" class="list-group-item">Item 3</div>
+				<div id="4" class="list-group-item">Item 4</div>
+				<div id="5" class="list-group-item">Item 5</div>
+				<div id="6" class="list-group-item">Item 6</div>
 			</div>
 		</div>
 	<!-- Latest Sortable -->
