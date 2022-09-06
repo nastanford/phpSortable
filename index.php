@@ -20,6 +20,8 @@
 				<div id="4" class="list-group-item">Item 4</div>
 				<div id="5" class="list-group-item">Item 5</div>
 				<div id="6" class="list-group-item">Item 6</div>
+				<div id="7" class="list-group-item">Item 7</div>
+				<div id="8" class="list-group-item">Item 8</div>
 			</div>
 		</div>
 	<!-- Latest Sortable -->
